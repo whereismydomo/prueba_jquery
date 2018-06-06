@@ -1,0 +1,55 @@
+body{
+	font-family: 'Nunito', sans-serif;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.board{
+}
+.text_twitter{
+	width: 390px;
+    padding: 12px;
+    margin-bottom: 14px;
+}
+.nuevo_tweet{
+	border: 1px solid #ccc;
+	margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    padding: 20px;
+    word-wrap: break-word;
+}
+p {
+    font-size: 22px;
+}
+span.username {
+    font-size: 12px;
+}
+button.close {
+    padding: 10px;
+}
+li {
+    display: inline;
+}
+
+.fa, .fas {
+    font-weight: 900;
+    font-size: 15px;
+    margin-right: 26px;
+    color: #AF4CFF;
+}
+.liked{
+	color:  #A8267F;
+}
+.numero { 
+	font-family: 'Nunito', sans-serif;
+}
+ol, ul {
+    margin-bottom: 10px;
+    padding-left: 0px;
+    margin-top: 30px;
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+}
