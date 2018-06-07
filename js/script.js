@@ -17,6 +17,7 @@
 					+ '</div>'
 					
 				);//cierra prepend
+
 				$('.text_twitter').val('');
 				$('.text_twitter').focus();
 			}) 
@@ -27,7 +28,7 @@
 	 		$(this).parent().fadeOut(300);
 		});
 
-		// Se ac
+		// Se cambia de color el corazón al hacer click sobre .likeable
 			$('.board').on('click', '.likeable', function(){
 			$(this).addClass('liked');
 		});
