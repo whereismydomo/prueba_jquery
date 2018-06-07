@@ -36,7 +36,7 @@
 		//Contador de likes con clase .contador
 		$('.board').on('click', '.contador', function(){
 			var contador_likes = parseInt($(this).text())+1;
-	        $(this).html('<span>'+' '+contador_likes+'</span>');    
+	        $(this).html('<span class="numero">'+' '+contador_likes+'</span>');    
 		});	
 
 

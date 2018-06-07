@@ -6,6 +6,13 @@ body{
     margin-right: 0px;
     margin-left: 0px;
 }
+.left {
+    background-color: #E8E2E2;
+    padding: 20px;
+    margin: 29px;
+    border: 1px solid #B0ACAB;
+    border-radius: 5px;
+}
 .board{
 }
 .text_twitter{
@@ -15,7 +22,7 @@ body{
 }
 .nuevo_tweet{
 	border: 1px solid #ccc;
-	margin-top: 15px;
+	margin-top: 28px;
     margin-bottom: 15px;
     border-radius: 5px;
     padding: 20px;
